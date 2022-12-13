@@ -1,0 +1,26 @@
+.div1{
+    COLOR:WHITE;
+    position: absolute;
+        height: 110%;
+        width: 30%;
+        background-color:rgb(174, 202, 218);
+}
+.DIV2{
+    
+    position: absolute;
+    margin-left: 32%;
+}
+h2{
+    font-family: cursive;
+}
+h1{
+    color:white;
+}
+img{
+    margin-left: 5%;
+    width: 50%;
+    height: 50%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
