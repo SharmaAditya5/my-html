@@ -50,30 +50,6 @@
         <td>34</td>
        
     </tr>
-    <tr>
-        <td>ram</td>
-        <td>kumar</td>
-        <td>34</td>
-       
-    </tr>
-    <tr>
-        <td>ram</td>
-        <td>kumar</td>
-        <td>34</td>
-       
-    </tr>
-    <tr>
-        <td>ram</td>
-        <td>kumar</td>
-        <td>34</td>
-       
-    </tr>
-    <tr>
-        <td>ram</td>
-        <td>kumar</td>
-        <td>34</td>
-       
-    </tr>
     
     <tr>
         <td>ram</td>
@@ -257,16 +233,7 @@
         <td>34</td>
        
     </tr>
-    <tr>
-        <td>ram</td>
-        <td>kumar</td>
-        <td>34</td>
-       
-    </tr>
-    
-    
-    
-    
+   
     </table>
     <h3>Unordered list</h3>
     <ul style="list-style-type:square">
